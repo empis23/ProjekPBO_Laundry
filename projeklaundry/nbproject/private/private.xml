@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/controller/PelangganController.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/view/PelangganView.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/config/Koneksi.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/model/Admin.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/view/LayananView.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/view/LoginView.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/view/Apptheme.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/view/DashboardView.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/controller/AuthController.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/model/Pelanggan.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/controller/TransaksiController.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/projeklaundry/Main.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/view/LaporanView.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/model/BaseEntity.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/view/TransaksiView.java</file>
+            <file>file:/C:/Tugas%20Apis/Prak%20PBO/projeklaundry/src/controller/LayananController.java</file>
+        </group>
+    </open-files>
 </project-private>

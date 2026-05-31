@@ -1,26 +1,25 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package projeklaundry;
 
-import javax.swing.SwingUtilities;
+import javax.swing.*;
 import view.LoginView;
 
-/**
- *
- * @author pf344
- */
 public class Main {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> {
-            LoginView loginView = new LoginView();
-            loginView.setVisible(true);
+
+        try {
+            UIManager.setLookAndFeel("javax.swing.plaf.nimbus.NimbusLookAndFeel");
+        } catch (Exception e) {
+            
+        }
+
+        UIManager.put("defaultFont", new java.awt.Font("Segoe UI", java.awt.Font.PLAIN, 13));
+
+        SwingUtilities.invokeLater(new Runnable() {
+            @Override
+            public void run() {
+                new LoginView().setVisible(true);
+            }
         });
     }
-    
 }
